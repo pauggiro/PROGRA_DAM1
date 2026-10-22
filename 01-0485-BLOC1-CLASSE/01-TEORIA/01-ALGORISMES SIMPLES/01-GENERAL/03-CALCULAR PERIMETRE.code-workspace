@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "03-CALCULAR PERIMETRE"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"llibreriapropia.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
